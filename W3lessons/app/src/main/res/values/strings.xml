@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="logo_moto">W3lessons-Material Design Signup Form</string>
+    <string name="create_account">Already have an account? login.</string>
+    <string name="registernow">REGISTER NOW</string>
+    <string name="username">Username</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="again_password">Re-Type password</string>
+</resources>
